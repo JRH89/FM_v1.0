@@ -1,5 +1,5 @@
-<img src="FM_cover.png"><br>
-<h1>FM Version 1.0</h1>
+<img src="FM_cover2.png"><br>
+<h1>FM Version 1.5</h1>
 <br>
 <h2>How To:</h2>
 <p>Download and run FM_v1.5 to bring up a GUI. Enter the URL for any youtube-dl compatible media,
