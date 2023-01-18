@@ -1,4 +1,13 @@
 <img src="FM_cover2.png"><br>
+<h1>FM Version 2.0</h1>
+<p>Version 2.0 keeps the .mp4 as well as extracts .mp3</p>
+<p>*NOTICE*: For those without FFmpeg installed on their computer, this will still work for downloading single 
+videos. An error will be showin in the terminal and tell the user to install FFmpeg, this is only neccessary if you want FM_2.0 to automatically extract the .mp3 into a separate file. Otherwise, ignore the warning and 
+an .mp4 file should be saved to the root folder from where FM_2.0 is opened unless specified to save elsewhere
+in the options fields.
+
+
+
 <h1>FM Version 1.5</h1>
 <p>Works great with single files or whole playlists.</p>
 <h2>How To:</h2>
