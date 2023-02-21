@@ -1,8 +1,10 @@
-<img src="FM_cover2.png"><br>
+<img src="fm3.png"><br>
 
 <h1>FM Version 3.0</h1>
 <p>V 3.0 is here and better than ever! A web browser opens directly in the GUI with a download button 
-fixed directly onto the navbar for easy use.</p>
+fixed directly onto the navbar for easy use.</p><br>
+
+<img src="FM_cover2.png"><br>
 <h1>FM Version 2.0</h1>
 <p>Version 2.0 keeps the .mp4 as well as extracts .mp3</p>
 <p>*NOTICE*: For those without FFmpeg installed on their computer, this will still work for downloading single 
