@@ -78,10 +78,7 @@ class MainWindow(QMainWindow):
 		self.urlbar.setCursorPosition(0)
   
 	def download(self):
-		# Get the URL from the urlbar
 		url = self.urlbar.text()
-
-		# Create a youtube-dl options object with the desired options
 		ydl_opts = {
 			'ignoreerrors': True,
    			'verbose': True,
@@ -94,8 +91,6 @@ class MainWindow(QMainWindow):
 			}],
 		}
 
-
-		# Download the video or audio using youtube-dl
 		with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 			ydl.download([url])
 
